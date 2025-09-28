@@ -14,7 +14,7 @@
 
 ---
 
-## 👾  About Me 
+## 👾  About Me and robotic journey 
 **Mechanical Engineer** turned **Robotics Software Engineer** 🔧 ➡️  🖥️
 Building intelligent robots that navigate, perceive, and interact with the real world. Specializing in autonomous systems that actually work outside the lab.  
 **Focus:** 🤖 Autonomous Navigation • 🗺️ SLAM & Localization • 🛰️ Motion Planning • 👁️ Computer Vision • 🧠 Deep Learning
