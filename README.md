@@ -20,9 +20,9 @@
 
 **Mechanical Engineer** turned **Robotics Software Engineer** 🔧 ➡️ 🖥️
 
-Building intelligent robots that navigate, perceive, and interact with the real world. Specializing in autonomous systems that actually work outside the lab with production-ready implementations in C++, Python, and MATLAB.
+Learning to build robots that navigate, perceive, and interact with the real world. Exploring autonomous systems through hands-on projects with C++, Python, and MATLAB.
 
-**Focus:** 🤖 Autonomous Navigation • 🗺️ SLAM & Localization • 🦾 Motion Planning & Manipulation • 👁️ Computer Vision • 🎯 Real-time Sensor Processing
+**Learning Path:** 🤖 Autonomous Navigation • 🗺️ SLAM & Localization • 🦾 Motion Planning & Manipulation • 👁️ Computer Vision • 🎯 Sensor Processing
 
 ---
 
@@ -60,62 +60,58 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Learning Projects
 
 ### 🗺️ Autonomous Navigation & Patrol Systems
 **Patrol Navigation Controller** (C++ with ROS2 Nav2)
-- Action-based waypoint patrol with cyclical behavior
-- Quaternion-based pose orientation handling
-- AMCL integration for real-time localization
-- Asynchronous goal management with robust callbacks
-- Exception handling and graceful shutdown
+- Waypoint patrol with cyclical behavior
+- Pose orientation handling with quaternions
+- AMCL localization integration
+- Callback-based asynchronous goal management
 
 **Random Explorer Bot** (C++ with ROS2 Nav2)
-- Autonomous exploration with Nav2 integration
-- Dynamic path planning and collision avoidance
+- Autonomous exploration implementation
+- Dynamic path planning
 
 **Waypoint Navigation** (Python with ROS2 Nav2)
-- Flexible waypoint management system
+- Waypoint management system
 - Real-time navigation feedback
 
-**Autonomous Navigation with Obstacle Avoidance** (Python, No Nav2)
-- Custom navigation implementation
-- Real-time obstacle detection and response
+**Autonomous Navigation with Obstacle Avoidance** (Python)
+- Custom navigation without Nav2
+- Obstacle detection and response
 
 ---
 
-### 🧭 Wall Following & Reactive Control
+### 🧭 Wall Following & Control Systems
 **Wall Following Controller** (Python with PID Control)
-- Real-time LiDAR scan data processing
-- Precision PID control system with adaptive speed
-- Multi-zone collision detection with safety margins
-- State machine: search → find wall → follow → escape collision
-- Stuck detection and recovery mechanisms
-- Sensor filtering and averaging for noise reduction
+- LiDAR scan data processing
+- PID control implementation
+- Multi-zone collision detection
+- State machine logic: search → find wall → follow → escape
+- Adaptive speed based on obstacles
 
 **Wall Following Controller** (C++ implementation)
-- High-performance variant with optimized sensor processing
+- High-performance variant of Python version
 
 ---
 
-### 🦾 Manipulation & Object Recognition
+### 🦾 Manipulation & Computer Vision
 **MoveIt Pick & Place Demo** (Python)
-- AI-powered pick-and-place operations
-- Computer vision integration with MoveIt motion planning
-- Robotic arm trajectory generation and execution
+- Pick-and-place operations with MoveIt
+- Computer vision for object detection
+- Arm trajectory planning
 
 **Colored Object Picker** (Python with OpenCV)
 - Real-time object detection and tracking
-- Computer vision-based pose estimation
-- Integration with manipulation systems
+- Vision-based positioning
 
 ---
 
-### 🔌 IoT & Embedded Systems
+### 🔌 IoT & Hardware
 **Automatic Water Pumping System** (MATLAB + Arduino)
-- Embedded systems control and automation
-- Sensor integration and real-time processing
-- Hardware-software integration
+- Sensor integration basics
+- Arduino hardware control
 
 ---
 
@@ -128,26 +124,26 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ---
 
-## 🧠 What I'm Building
+## 🧠 Currently Learning
 
-**🤖 Autonomous Navigation Systems** → Multi-level nav stacks from custom implementations to Nav2-based solutions
+**🤖 ROS2 & Robotics Frameworks** → Building blocks for autonomous systems
 
-**🎯 Reactive Control Algorithms** → PID-based wall following, collision avoidance, and adaptive behaviors
+**🎯 Control Algorithms** → PID controllers and motion planning basics
 
-**🦾 Robotic Manipulation** → Motion planning, pick-and-place, and vision-guided grasping
+**🦾 Robotic Manipulation** → Motion planning with MoveIt and arm control
 
-**🧬 Computer Vision** → Real-time object detection, tracking, and pose estimation for robotic perception
+**🧬 Computer Vision Fundamentals** → Object detection and tracking with OpenCV
 
-**📡 Embedded & IoT** → Hardware-software integration from microcontrollers to robotic platforms
+**📡 Hardware Integration** → Connecting sensors and actuators to software
 
 ---
 
-## 💡 Technical Highlights
+## 💡 What I'm Learning
 
-- **Modern C++ Practices:** Smart pointers, RAII patterns, chrono utilities, multi-threading
-- **ROS2 Ecosystem:** Action-based architectures, async callbacks, transform handling, sensor fusion
-- **Real-time Processing:** LiDAR data interpretation, vision pipelines, control loop optimization
-- **Production-Ready Code:** Exception handling, graceful degradation, robust error management
+- **ROS2 Basics** → Nodes, topics, actions, and message passing
+- **C++ & Python** → Building everything from simple scripts to complex robotics applications
+- **Control Systems** → PID loops and basic motion control
+- **Sensor Integration** → Working with LiDAR, cameras, and other robot sensors
 
 ---
 
