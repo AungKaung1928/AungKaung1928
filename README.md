@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics Software Engineer" />
+  <img src="https://img.shields.io/badge/Embedded_Systems_Engineer-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Systems Engineer" />
+  <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=brain&logoColor=white" alt="AI Enthusiast" />
 </p>
 
 <p align="center">
