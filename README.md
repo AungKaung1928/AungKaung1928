@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="70" height="70" />
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat&animation=wave" alt="Typing SVG" />
 </h1>
 
@@ -17,17 +15,17 @@
 
 ---
 
-## 👾 About Me and Robotic Journey
+## About Me and Robotic Journey
 
-**Mechanical Engineer** turned **Robot Control Engineer** 🔧 ➡️ 🖥️
+**Mechanical Engineer** turned **Robot Control Engineer**
 
 Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
 
-**Focus Areas:** 🤖 Autonomous Mobile Robots • 🗺️ SLAM & Self-Localization • 🧭 ROS2 Navigation Stack • 📡 Sensor Fusion (LiDAR, IMU, Camera) • 🏭 Industrial CPS Integration
+**Focus Areas:** Autonomous Mobile Robots • SLAM & Self-Localization • ROS2 Navigation Stack • Sensor Fusion (LiDAR, IMU, Camera) • Industrial CPS Integration
 
 ---
 
-## 📟 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -64,9 +62,9 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-## 🚀 Projects Portfolio
+## Projects Portfolio
 
-### 🗺️ Autonomous Navigation & Localization
+### Autonomous Navigation & Localization
 **Patrol Navigation Controller** (C++ with ROS2 Nav2)
 - Waypoint patrol with cyclical behavior
 - Pose orientation handling with quaternions
@@ -90,7 +88,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-### 🧭 Sensor Integration & Control
+### Sensor Integration & Control
 **Wall Following Controller** (Python with PID Control)
 - LiDAR scan data processing and filtering
 - PID control implementation
@@ -104,7 +102,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-### 🦾 Manipulation & Computer Vision
+### Manipulation & Computer Vision
 **MoveIt Pick & Place Demo** (Python)
 - Pick-and-place operations with MoveIt
 - Computer vision for object detection
@@ -118,7 +116,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-### 🔌 IoT & Hardware Integration
+### IoT & Hardware Integration
 **Automatic Water Pumping System** (MATLAB + Arduino)
 - Sensor integration fundamentals
 - Arduino hardware control
@@ -126,7 +124,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
@@ -135,29 +133,29 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-## 🧠 Technical Expertise
+## Technical Expertise
 
-**🤖 ROS2 Development** → Production-ready autonomous robot systems
+**ROS2 Development** → Production-ready autonomous robot systems
 
-**🗺️ SLAM & Localization** → Self-position estimation and environment mapping (GMapping, Cartographer)
+**SLAM & Localization** → Self-position estimation and environment mapping (GMapping, Cartographer)
 
-**🧭 Navigation Stack** → ROS2 Nav2 path planning and obstacle avoidance
+**Navigation Stack** → ROS2 Nav2 path planning and obstacle avoidance
 
-**📡 Sensor Fusion** → LiDAR, IMU, GPS, Camera integration and data processing
+**Sensor Fusion** → LiDAR, IMU, GPS, Camera integration and data processing
 
-**🎯 Control Systems** → PID controllers and motion planning algorithms
+**Control Systems** → PID controllers and motion planning algorithms
 
-**🦾 Robotic Manipulation** → Motion planning with MoveIt and trajectory control
+**Robotic Manipulation** → Motion planning with MoveIt and trajectory control
 
-**👁️ Computer Vision** → Object detection and tracking with OpenCV
+**Computer Vision** → Object detection and tracking with OpenCV
 
-**🔧 System Integration** → API design, communication protocols (MQTT, WebSocket)
+**System Integration** → API design, communication protocols (MQTT, WebSocket)
 
-**🐳 DevOps** → Docker containerization and deployment workflows
+**DevOps** → Docker containerization and deployment workflows
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
 - **Industrial Robot Development** → Building autonomous mobile robots for industrial CPS (Cyber-Physical Systems)
 - **ROS2 Navigation** → Advanced path planning and localization techniques
@@ -167,7 +165,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ---
 
-## 🙌 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/" target="_blank">
