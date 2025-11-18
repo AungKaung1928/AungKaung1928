@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics Software Engineer" />
-  <img src="https://img.shields.io/badge/Embedded_Systems_Engineer-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Systems Engineer" />
-  <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=brain&logoColor=white" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Robot_Control_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robot Control Engineer" />
+  <img src="https://img.shields.io/badge/Autonomous_Navigation-008080?style=for-the-badge&logo=compass&logoColor=white" alt="Autonomous Navigation" />
+  <img src="https://img.shields.io/badge/AI/IoT_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="AI/IoT Systems" />
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## 👾 About Me and Robotic Journey
 
-**Mechanical Engineer** turned **Robotics Software Engineer** 🔧 ➡️ 🖥️
+**Mechanical Engineer** turned **Robot Control Engineer** 🔧 ➡️ 🖥️
 
-Learning to build robots that navigate, perceive, and interact with the real world. Exploring autonomous systems through hands-on projects with C++, Python, and MATLAB.
+Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
 
-**Learning Path:** 🤖 Autonomous Navigation • 🗺️ SLAM & Localization • 🦾 Motion Planning & Manipulation • 👁️ Computer Vision • 🎯 Sensor Processing
+**Focus Areas:** 🤖 Autonomous Mobile Robots • 🗺️ SLAM & Self-Localization • 🧭 ROS2 Navigation Stack • 📡 Sensor Fusion (LiDAR, IMU, Camera) • 🏭 Industrial CPS Integration
 
 ---
 
@@ -36,34 +36,37 @@ Learning to build robots that navigate, perceive, and interact with the real wor
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/MATLAB-0071C5?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  </a>
   <a href="https://www.ros.org/" target="_blank">
     <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
   </a>
   <a href="https://nav2.org/" target="_blank">
     <img src="https://img.shields.io/badge/Nav2-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="Nav2" />
   </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   </a>
   <a href="https://moveit.ros.org/" target="_blank">
     <img src="https://img.shields.io/badge/MoveIt-00D9FF?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
   </a>
-  <a href="https://gazebosim.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
 </p>
 
 ---
 
-## 🚀 Learning Projects
+## 🚀 Projects Portfolio
 
-### 🗺️ Autonomous Navigation & Patrol Systems
+### 🗺️ Autonomous Navigation & Localization
 **Patrol Navigation Controller** (C++ with ROS2 Nav2)
 - Waypoint patrol with cyclical behavior
 - Pose orientation handling with quaternions
@@ -73,27 +76,31 @@ Learning to build robots that navigate, perceive, and interact with the real wor
 **Random Explorer Bot** (C++ with ROS2 Nav2)
 - Autonomous exploration implementation
 - Dynamic path planning
+- SLAM-based environment mapping
 
 **Waypoint Navigation** (Python with ROS2 Nav2)
 - Waypoint management system
 - Real-time navigation feedback
+- Nav2 action server integration
 
 **Autonomous Navigation with Obstacle Avoidance** (Python)
 - Custom navigation without Nav2
-- Obstacle detection and response
+- Real-time obstacle detection and response
+- Path replanning algorithms
 
 ---
 
-### 🧭 Wall Following & Control Systems
+### 🧭 Sensor Integration & Control
 **Wall Following Controller** (Python with PID Control)
-- LiDAR scan data processing
+- LiDAR scan data processing and filtering
 - PID control implementation
 - Multi-zone collision detection
 - State machine logic: search → find wall → follow → escape
 - Adaptive speed based on obstacles
 
 **Wall Following Controller** (C++ implementation)
-- High-performance variant of Python version
+- High-performance variant with optimized sensor processing
+- Real-time control loop for industrial applications
 
 ---
 
@@ -101,18 +108,21 @@ Learning to build robots that navigate, perceive, and interact with the real wor
 **MoveIt Pick & Place Demo** (Python)
 - Pick-and-place operations with MoveIt
 - Computer vision for object detection
-- Arm trajectory planning
+- Arm trajectory planning and execution
+- Coordinated motion control
 
 **Colored Object Picker** (Python with OpenCV)
 - Real-time object detection and tracking
-- Vision-based positioning
+- Vision-based positioning and manipulation
+- HSV color space filtering
 
 ---
 
-### 🔌 IoT & Hardware
+### 🔌 IoT & Hardware Integration
 **Automatic Water Pumping System** (MATLAB + Arduino)
-- Sensor integration basics
+- Sensor integration fundamentals
 - Arduino hardware control
+- Real-time monitoring system
 
 ---
 
@@ -125,26 +135,35 @@ Learning to build robots that navigate, perceive, and interact with the real wor
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Technical Expertise
 
-**🤖 ROS2 & Robotics Frameworks** → Building blocks for autonomous systems
+**🤖 ROS2 Development** → Production-ready autonomous robot systems
 
-**🎯 Control Algorithms** → PID controllers and motion planning basics
+**🗺️ SLAM & Localization** → Self-position estimation and environment mapping (GMapping, Cartographer)
 
-**🦾 Robotic Manipulation** → Motion planning with MoveIt and arm control
+**🧭 Navigation Stack** → ROS2 Nav2 path planning and obstacle avoidance
 
-**🧬 Computer Vision Fundamentals** → Object detection and tracking with OpenCV
+**📡 Sensor Fusion** → LiDAR, IMU, GPS, Camera integration and data processing
 
-**📡 Hardware Integration** → Connecting sensors and actuators to software
+**🎯 Control Systems** → PID controllers and motion planning algorithms
+
+**🦾 Robotic Manipulation** → Motion planning with MoveIt and trajectory control
+
+**👁️ Computer Vision** → Object detection and tracking with OpenCV
+
+**🔧 System Integration** → API design, communication protocols (MQTT, WebSocket)
+
+**🐳 DevOps** → Docker containerization and deployment workflows
 
 ---
 
-## 💡 What I'm Learning
+## 💡 Current Focus
 
-- **ROS2 Basics** → Nodes, topics, actions, and message passing
-- **C++ & Python** → Building everything from simple scripts to complex robotics applications
-- **Control Systems** → PID loops and basic motion control
-- **Sensor Integration** → Working with LiDAR, cameras, and other robot sensors
+- **Industrial Robot Development** → Building autonomous mobile robots for industrial CPS (Cyber-Physical Systems)
+- **ROS2 Navigation** → Advanced path planning and localization techniques
+- **Sensor Integration** → Multi-sensor fusion for robust perception
+- **System Architecture** → Designing scalable and maintainable robot software
+- **Hardware Interfaces** → Working with embedded platforms (NVIDIA Jetson)
 
 ---
 
