@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robot_Control_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Control Engineer" />
+  <img src="https://img.shields.io/badge/Robotic_Control_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Control Engineer" />
   <img src="https://img.shields.io/badge/Autonomous_Navigation-008080?style=for-the-badge&logo=compass&logoColor=white" alt="Autonomous Navigation" />
   <img src="https://img.shields.io/badge/AI/IoT_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="AI/IoT Systems" />
 </p>
