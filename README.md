@@ -17,7 +17,7 @@
 
 ## About Me and Robotic Journey
 
-**Mechanical Engineer** turned **Robot Control Engineer**
+**Mechanical Engineer** turned **Robotic Control Engineer**
 
 Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
 
