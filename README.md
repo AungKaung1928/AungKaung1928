@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotic_Control_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Control Engineer" />
+  <img src="https://img.shields.io/badge/Robotic_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Software Engineer" />
   <img src="https://img.shields.io/badge/Autonomous_Navigation-008080?style=for-the-badge&logo=compass&logoColor=white" alt="Autonomous Navigation" />
   <img src="https://img.shields.io/badge/AI/IoT_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="AI/IoT Systems" />
 </p>
@@ -15,9 +15,9 @@
 
 ---
 
-## About Me and Robotic Journey
+## About Me and Robotic Engineering Journey
 
-**Mechanical Engineer** turned **Robotic Software Engineer**
+**"Robotics Software Engineer with Mechanical Engineering background"**
 
 Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
 
