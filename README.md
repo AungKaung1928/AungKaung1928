@@ -21,7 +21,7 @@
 
 Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
 
-**Focus Areas:** Autonomous Mobile Robots • SLAM & Self-Localization • ROS2 Navigation Stack • Sensor Fusion (LiDAR, IMU, Camera) • Industrial CPS Integration
+**Focus Areas:** Autonomous Mobile Robots • SLAM & Self-Localization • ROS2 Navigation Stack • Sensor Fusion (LiDAR, IMU, Camera) • Industrial CPS Integration • Machine Learning for Robotics • Computer Vision & Deep Learning
 
 ---
 
@@ -52,6 +52,15 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
   <a href="https://moveit.ros.org/" target="_blank">
     <img src="https://img.shields.io/badge/MoveIt-00D9FF?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
   </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -65,23 +74,23 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 ## Projects Portfolio
 
 ### Autonomous Navigation & Localization
-**Patrol Navigation Controller** (C++ with ROS2 Nav2)
+**Patrol Navigation Controller** ([C++](https://isocpp.org/) with [ROS2](https://www.ros.org/) [Nav2](https://nav2.org/))
 - Waypoint patrol with cyclical behavior
 - Pose orientation handling with quaternions
 - AMCL localization integration
 - Callback-based asynchronous goal management
 
-**Random Explorer Bot** (C++ with ROS2 Nav2)
+**Random Explorer Bot** ([C++](https://isocpp.org/) with [ROS2](https://www.ros.org/) [Nav2](https://nav2.org/))
 - Autonomous exploration implementation
 - Dynamic path planning
 - SLAM-based environment mapping
 
-**Waypoint Navigation** (Python with ROS2 Nav2)
+**Waypoint Navigation** ([Python](https://www.python.org/) with [ROS2](https://www.ros.org/) [Nav2](https://nav2.org/))
 - Waypoint management system
 - Real-time navigation feedback
 - Nav2 action server integration
 
-**Autonomous Navigation with Obstacle Avoidance** (Python)
+**Autonomous Navigation with Obstacle Avoidance** ([Python](https://www.python.org/))
 - Custom navigation without Nav2
 - Real-time obstacle detection and response
 - Path replanning algorithms
@@ -89,27 +98,27 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 ---
 
 ### Sensor Integration & Control
-**Wall Following Controller** (Python with PID Control)
+**Wall Following Controller** ([Python](https://www.python.org/) with PID Control)
 - LiDAR scan data processing and filtering
 - PID control implementation
 - Multi-zone collision detection
 - State machine logic: search → find wall → follow → escape
 - Adaptive speed based on obstacles
 
-**Wall Following Controller** (C++ implementation)
+**Wall Following Controller** ([C++](https://isocpp.org/) implementation)
 - High-performance variant with optimized sensor processing
 - Real-time control loop for industrial applications
 
 ---
 
 ### Manipulation & Computer Vision
-**MoveIt Pick & Place Demo** (Python)
-- Pick-and-place operations with MoveIt
+**MoveIt Pick & Place Demo** ([Python](https://www.python.org/))
+- Pick-and-place operations with [MoveIt](https://moveit.ros.org/)
 - Computer vision for object detection
 - Arm trajectory planning and execution
 - Coordinated motion control
 
-**Colored Object Picker** (Python with OpenCV)
+**Colored Object Picker** ([Python](https://www.python.org/) with [OpenCV](https://opencv.org/))
 - Real-time object detection and tracking
 - Vision-based positioning and manipulation
 - HSV color space filtering
@@ -147,7 +156,9 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 **Robotic Manipulation** → Motion planning with MoveIt and trajectory control
 
-**Computer Vision** → Object detection and tracking with OpenCV
+**Computer Vision & Deep Learning** → Object detection, tracking, and semantic segmentation with OpenCV, PyTorch, TensorFlow
+
+**Machine Learning for Robotics** → Supervised learning, reinforcement learning, and neural networks for robot perception and control
 
 **System Integration** → API design, communication protocols (MQTT, WebSocket)
 
@@ -160,6 +171,7 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 - **Industrial Robot Development** → Building autonomous mobile robots for industrial CPS (Cyber-Physical Systems)
 - **ROS2 Navigation** → Advanced path planning and localization techniques
 - **Sensor Integration** → Multi-sensor fusion for robust perception
+- **Machine Learning Integration** → Applying deep learning models (CNN, YOLO, SegNet) for object detection and scene understanding
 - **System Architecture** → Designing scalable and maintainable robot software
 - **Hardware Interfaces** → Working with embedded platforms (NVIDIA Jetson)
 
