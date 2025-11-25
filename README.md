@@ -37,29 +37,14 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
   <a href="https://www.ros.org/" target="_blank">
     <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
   </a>
-  <a href="https://nav2.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nav2-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="Nav2" />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="https://gazebosim.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </a>
-  <a href="https://moveit.ros.org/" target="_blank">
-    <img src="https://img.shields.io/badge/MoveIt-00D9FF?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
