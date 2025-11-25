@@ -136,8 +136,8 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 </p>
 
 ---
