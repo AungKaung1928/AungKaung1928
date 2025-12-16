@@ -19,38 +19,49 @@
 
 **"Robotics Software Engineer with Mechanical Engineering background"**
 
-Developing autonomous mobile robots with ROS2, focusing on localization, path planning, and sensor integration. Building production-ready robotic systems that navigate, perceive, and interact with real-world environments.
+Developing autonomous mobile robots with [ROS2](https://www.ros.org/), focusing on navigation, localization, and sensor integration. Building robotic systems that navigate and interact with real-world environments.
 
-**Focus Areas:** Autonomous Mobile Robots • SLAM & Self-Localization • ROS2 Navigation Stack • Sensor Fusion (LiDAR, IMU, Camera) • Industrial CPS Integration • Machine Learning for Robotics • Computer Vision & Deep Learning
+**Focus Areas:** Autonomous Mobile Robots • ROS2 Navigation • SLAM & Localization • Sensor Integration (LiDAR, IMU, Camera) • Computer Vision for Robotics
 
 ---
 
 ## Tech Stack
 
 <p align="center">
+  <!-- Core Tools -->
+  <a href="https://www.ros.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
-  <a href="https://www.ros.org/" target="_blank">
-    <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-  <a href="https://scikit-learn.org/stable/modules/neighbors.html" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn KNN" />
+  
+  <!-- ML/Vision -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
+  
+  <!-- Exploring -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&opacity=0.7" alt="Docker" />
+  </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white&opacity=0.7" alt="Gazebo" />
   </a>
 </p>
 
@@ -59,10 +70,11 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 ## Projects Portfolio
 
 ### Autonomous Navigation & Localization
+
 **Patrol Navigation Controller** ([C++](https://isocpp.org/) with [ROS2](https://www.ros.org/) [Nav2](https://nav2.org/))
 - Waypoint patrol with cyclical behavior
 - Pose orientation handling with quaternions
-- AMCL localization integration
+- [AMCL](https://nav2.org/configuration/packages/configuring-amcl.html) localization integration
 - Callback-based asynchronous goal management
 
 **Random Explorer Bot** ([C++](https://isocpp.org/) with [ROS2](https://www.ros.org/) [Nav2](https://nav2.org/))
@@ -76,13 +88,14 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 - Nav2 action server integration
 
 **Autonomous Navigation with Obstacle Avoidance** ([Python](https://www.python.org/))
-- Custom navigation without Nav2
+- Custom navigation implementation
 - Real-time obstacle detection and response
 - Path replanning algorithms
 
 ---
 
 ### Sensor Integration & Control
+
 **Wall Following Controller** ([Python](https://www.python.org/) with PID Control)
 - LiDAR scan data processing and filtering
 - PID control implementation
@@ -92,11 +105,12 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 **Wall Following Controller** ([C++](https://isocpp.org/) implementation)
 - High-performance variant with optimized sensor processing
-- Real-time control loop for industrial applications
+- Real-time control loop implementation
 
 ---
 
 ### Manipulation & Computer Vision
+
 **MoveIt Pick & Place Demo** ([Python](https://www.python.org/))
 - Pick-and-place operations with [MoveIt](https://moveit.ros.org/)
 - Computer vision for object detection
@@ -111,7 +125,8 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 ---
 
 ### IoT & Hardware Integration
-**Automatic Water Pumping System** (MATLAB + Arduino)
+
+**Automatic Water Pumping System** (MATLAB + [Arduino](https://www.arduino.cc/))
 - Sensor integration fundamentals
 - Arduino hardware control
 - Real-time monitoring system
@@ -129,36 +144,26 @@ Developing autonomous mobile robots with ROS2, focusing on localization, path pl
 
 ## Technical Expertise
 
-**ROS2 Development** → Production-ready autonomous robot systems
+**ROS2 Development** → Navigation systems with [Nav2](https://nav2.org/), action servers, and lifecycle management  
+**SLAM & Localization** → [AMCL](https://nav2.org/configuration/packages/configuring-amcl.html) localization, working with [GMapping](http://wiki.ros.org/gmapping)/[Cartographer](https://google-cartographer-ros.readthedocs.io/)  
+**Sensor Processing** → LiDAR and camera data processing, filtering techniques  
+**Control Systems** → PID controllers for mobile robot navigation  
+**Computer Vision** → Object detection and tracking with [OpenCV](https://opencv.org/), basic [PyTorch](https://pytorch.org/) models  
+**System Integration** → ROS2 launch files, parameter configuration, node communication  
+**Hardware Basics** → [Arduino](https://www.arduino.cc/) sensor integration and embedded control  
 
-**SLAM & Localization** → Self-position estimation and environment mapping (GMapping, Cartographer)
-
-**Navigation Stack** → ROS2 Nav2 path planning and obstacle avoidance
-
-**Sensor Fusion** → LiDAR, IMU, GPS, Camera integration and data processing
-
-**Control Systems** → PID controllers and motion planning algorithms
-
-**Robotic Manipulation** → Motion planning with MoveIt and trajectory control
-
-**Computer Vision & Deep Learning** → Object detection, tracking, and semantic segmentation with OpenCV, PyTorch, TensorFlow
-
-**Machine Learning for Robotics** → Supervised learning, reinforcement learning, and neural networks for robot perception and control
-
-**System Integration** → API design, communication protocols (MQTT, WebSocket)
-
-**DevOps** → Docker containerization and deployment workflows
+**Learning Next:** Robot simulation ([Gazebo](https://gazebosim.org/), [Isaac Sim](https://developer.nvidia.com/isaac-sim)) • ML model optimization • Advanced navigation patterns
 
 ---
 
 ## Current Focus
 
-- **Industrial Robot Development** → Building autonomous mobile robots for industrial CPS (Cyber-Physical Systems)
-- **ROS2 Navigation** → Advanced path planning and localization techniques
-- **Sensor Integration** → Multi-sensor fusion for robust perception
-- **Machine Learning Integration** → Applying deep learning models (CNN, YOLO, SegNet) for object detection and scene understanding
-- **System Architecture** → Designing scalable and maintainable robot software
-- **Hardware Interfaces** → Working with embedded platforms (NVIDIA Jetson)
+**Building Skills In:**
+- **ROS2 Advanced Features** → [Nav2](https://nav2.org/) behaviors, custom plugins, lifecycle nodes
+- **Simulation Tools** → [Gazebo](https://gazebosim.org/) environment setup and robot modeling
+- **Machine Learning** → Deploying [PyTorch](https://pytorch.org/) models for robot perception
+- **Production Code** → Clean code practices, testing, and version control workflows
+- **Hardware Projects** → [Arduino](https://www.arduino.cc/)-based sensor integration experiments
 
 ---
 
