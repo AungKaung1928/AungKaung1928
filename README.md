@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotic_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotic Software Engineer" />
-  <img src="https://img.shields.io/badge/Autonomous_Navigation-008080?style=for-the-badge&logo=compass&logoColor=white" alt="Autonomous Navigation" />
-  <img src="https://img.shields.io/badge/AI/IoT_Systems-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="AI/IoT Systems" />
+  <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics Software Engineer" />
+  <img src="https://img.shields.io/badge/ROS2_Navigation-008080?style=for-the-badge&logo=compass&logoColor=white" alt="ROS2 Navigation" />
+  <img src="https://img.shields.io/badge/Computer_Vision-008080?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
 </p>
 
 <p align="center">
