@@ -52,9 +52,6 @@ Developing autonomous mobile robots with [ROS2](https://www.ros.org/), focusing 
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  </a>
   
   <!-- Exploring -->
   <a href="https://www.docker.com/" target="_blank">
