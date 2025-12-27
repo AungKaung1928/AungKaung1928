@@ -21,7 +21,7 @@
 
 Developing autonomous mobile robots with [ROS2](https://www.ros.org/), focusing on navigation, localization, and sensor integration. Building robotic systems that navigate and interact with real-world environments.
 
-**Focus Areas:** Autonomous Mobile Robots • ROS2 Navigation • SLAM & Localization • Sensor Integration (LiDAR, IMU, Camera) • Computer Vision for Robotics
+**Focus Areas:** Autonomous Mobile Robots • ROS2 Navigation • SLAM & Localization • Sensor Integration (LiDAR, IMU, Camera) • Computer Vision for Robotics • Machine Learning
 
 ---
 
