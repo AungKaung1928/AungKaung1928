@@ -15,7 +15,7 @@
 
 ---
 
-## About Me and Robotic Engineering Journey
+## About Me and Robotic Software Engineering Journey
 
 **"Robotics Software Engineer with Mechanical Engineering background"**
 
