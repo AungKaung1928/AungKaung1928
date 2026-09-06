@@ -1,12 +1,10 @@
- ## Aung Kaung Myat
+## Aung Kaung Myat
 
-  Robotics software engineer, mechanical engineering background. ROS 2, C++, Python.
-  Working toward physical AI — sim-to-real transfer, learned policies on real hardware, edge deployment on Jetson.
+Robotics Software Engineer with real-robot experience in 3D LiDAR perception, 2D SLAM, navigation, and robot integration using ROS 2, C++, and Python.
 
-  **Now** &nbsp;LiDAR perception, navigation, and manipulation in ROS 2 / Gazebo<br>
-  **Next** &nbsp;Isaac Sim · TensorRT on Jetson · domain randomization · 3D detection (PointPillars)
+Building toward Physical AI and embodied AI through robot learning, computer vision, sim-to-real transfer, and edge AI deployment.
 
-  ---
+---
 
   ### Projects
 
