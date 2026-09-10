@@ -1,6 +1,8 @@
 ## Aung Kaung Myat
 
-Robotics Software Engineer working on learned perception and control for physical machines — models trained in simulation, measured against a classical baseline that had to be beaten, and exported to run on device. ROS 2 and C++ for the systems layer, PyTorch for the learning.
+Robotics Software Engineer. ROS 2, C++, navigation and LiDAR perception on real mobile robots in my current role.
+
+The projects below are personal work: learned perception and control, trained in simulation, measured against a classical baseline that had to be beaten, and exported to run on device.
 
 Every number below has a script behind it. Where the learned method loses to the classical one, the repo says so.
 
